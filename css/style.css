@@ -31,3 +31,15 @@ body{
     justify-content: space-around;
     
 }
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    
+}
